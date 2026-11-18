@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/git/git",
+  "tag": "v2.51.0",
+  "commit": "c44beea485f0f2feaf460e2ac87fdd5608d63cf0",
+  "files": {
+    "git-completion.bash": {
+      "path": "contrib/completion/git-completion.bash",
+      "sha256": "7e23e7ead6481795f03851d6ad7d7488f49aabd0a209f1cf73f270fe68634b8b"
+    },
+    "git-prompt.sh": {
+      "path": "contrib/completion/git-prompt.sh",
+      "sha256": "7ff718f4a06fd0a0be7edfef926abb41b1353c48c1515ad312d226965b74943a"
+    },
+    "COPYING": {
+      "path": "COPYING",
+      "sha256": "5b2198d1645f767585e8a88ac0499b04472164c0d2da22e75ecf97ef443ab32e"
+    }
+  }
+}

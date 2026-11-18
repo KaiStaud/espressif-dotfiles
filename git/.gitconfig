@@ -1,0 +1,14 @@
+# Defaults applied only when the key is absent from the user's global config.
+# Identity, credentials, signing, safe.directory and toolchains stay untouched.
+[init]
+    defaultBranch = main
+[fetch]
+    prune = true
+[pull]
+    ff = only
+[color]
+    ui = auto
+[alias]
+    st = status --short --branch
+    lg = log --graph --decorate --oneline -20
+    last = log -1 --stat
